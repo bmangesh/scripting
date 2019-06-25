@@ -23,9 +23,9 @@ echo $MY_MESSAGE
 # Current_user_name=$(whoami)
 # do_calc=$(expr 5 + 5)     ---> It will print 10 
 # lets define a variable which container a int value e.g my_num=25, and user these variable value for further calculation
-#my_num=25
-#total=$(expr $my_num + 100)  --> it should print 125
-#A local variable can be defined using local keyword
-#local var=TempValue
-#Store a parse command output in a variable
-#OS_NAME=`uname -a | cut -d " " -f1`
+# my_num=25
+# total=$(expr $my_num + 100)  --> it should print 125
+# A local variable can be defined using local keyword
+# local var=TempValue
+# Store a parse command output in a variable
+# OS_NAME=`uname -a | cut -d " " -f1`
